@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Supermarketapi", "Supermarketapi\Supermarketapi.csproj", "{7A070D3A-9522-4CE4-97CE-763EAED43978}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A070D3A-9522-4CE4-97CE-763EAED43978}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A070D3A-9522-4CE4-97CE-763EAED43978}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A070D3A-9522-4CE4-97CE-763EAED43978}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A070D3A-9522-4CE4-97CE-763EAED43978}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EE961FA-5585-4990-BBB2-529C99E1B043}
+	EndGlobalSection
+EndGlobal
